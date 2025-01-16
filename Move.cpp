@@ -4,9 +4,6 @@
  * Move.cpp
  * Project UID 848fee0125dbb5eb53ed294f20dbef81
  *
- * Ruiqi Hu
- * ruiqihu
- *
  * Final Project - Elevators
  */
  
